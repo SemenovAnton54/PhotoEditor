@@ -119,6 +119,6 @@ nexusStaging {
     password = ossrhPassword
 }
 
-signing {
-    sign publishing.publications
-}
+//signing {
+//    sign publishing.publications
+//}
